@@ -38,3 +38,4 @@ to get the current color hit <b>CTRL+ALT+F</b>
 Start the script, Follow directions on screen.
 
 ![Main Message at Launch](./images/mainscreen.png)
+https://youtu.be/ksP_EiwYq2s
