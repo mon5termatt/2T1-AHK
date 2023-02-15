@@ -15,10 +15,13 @@ Step 4: Find the "Stock Level" Bar in the Bunker Manager app and make sure it is
 
 Step 5: Find the "Blue Pixel" on the Stock Level and look at WindowSpy, take Note of the Window position 
 EXAMPLE
-Screen:    1395, 477
-Window: 1395, 477
-Client:    1395, 477 (default)
-Color:    F0F0F0 (Red=F0 Green=F0 Blue=F0)
+> Screen:    1395, 477
+
+> Window: 1395, 477
+
+> Client:    1395, 477 (default)
+
+> Color:    F0F0F0 (Red=F0 Green=F0 Blue=F0)
 
 Step 6: Find the "BLACK Pixel" Just to the right of the Blue Pixel on the Stock Level and look at WindowSpy, take Note of the Window position 
 This is important as it will stop the script if you have more then 1/100 stock
