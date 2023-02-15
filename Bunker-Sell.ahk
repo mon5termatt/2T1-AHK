@@ -5,7 +5,7 @@ py=283
 ;ALSO CHANGE LINES 19 AND 26 HEX CODES
 CoordMode, Mouse, Window
 CoordMode, PixelGetColor, Window
-msgbox, Start the script by hitting CTRL+ALT+S`nTo Stop the script hit CTRL+ALT+D`n`nBind Open Bunker manager to F11 Then enter the main screen so you can see stock level.`n`nSet multiplier to "306720"`n`nYOU MUST BE RUNNING ON YOUR MAIN MONITOR AND WINDOWED FULLSCREEN.`n`nPlease note I have only tested on a 1080p monitor. `n`n For info on how to change the script Hit CTRL+ALT+A
+msgbox, Start the script by hitting CTRL+ALT+S`nTo Stop the script hit CTRL+ALT+D`nTo debug the colors on screen hit CTRL+ALT+F`n`nBasic Usage:`nBind Open Bunker manager to F11 Then enter the main screen so you can see stock level.`nSet your bunker multiplier to "306720"`n`nPlease note I have only tested on a 1080p monitor. You may need to edit this script if you arent @ 1080p `n`n For info on how to change this script Hit CTRL+ALT+A
 
 ^!s::  ; Control+Alt+S hotkey.
 Start:
