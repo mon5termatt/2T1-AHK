@@ -3,8 +3,8 @@ p1x=997
 p2x=1001
 py=283
 ;ALSO CHANGE LINES 19 AND 26 HEX CODES
-CoordMode, Mouse, Screen
-CoordMode, PixelGetColor, Screen
+CoordMode, Mouse, Window
+CoordMode, PixelGetColor, Window
 msgbox, Start the script by hitting CTRL+ALT+S`nTo Stop the script hit CTRL+ALT+D`n`nBind Open Bunker manager to F11 Then enter the main screen so you can see stock level.`n`nSet multiplier to "306720"`n`nYOU MUST BE RUNNING ON YOUR MAIN MONITOR AND WINDOWED FULLSCREEN.`n`nPlease note I have only tested on a 1080p monitor. `n`n For info on how to change the script Hit CTRL+ALT+A
 
 ^!s::  ; Control+Alt+S hotkey.
