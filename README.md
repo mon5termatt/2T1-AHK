@@ -1,20 +1,18 @@
 # bunker-ahk
 AUTOHOTKEY SCRIPT FOR 2T1 MU BUNKER METHOD
 
-Step 1: 
+### Step 1: Install AutoHotKey 1.1
+https://www.autohotkey.com/
 
-Install AutoHotKey 1.1  (https://www.autohotkey.com/)
-Download the latest AHK Script From this Repo
+### Step 3: Follow this tutorial to get the multiplier and everything set up 
+https://youtu.be/DHfVRy5KhWk
 
-Step 2: Follow this tutorial to get the multiplier and everything set up 
-(https://youtu.be/DHfVRy5KhWk)
+### Step 4: Launch AutoHotKey WindowSpy
 
-Step 3: Launch AutoHotKey WindowSpy
 
-Step 4: Find the "Stock Level" Bar in the Bunker Manager app and make sure it is at 1/100
-(https://cdn.discordapp.com/attachments/1062957888794021988/1072694701838307348/image.png)
+### Step 5: Find the "Stock Level" Bar in the Bunker Manager app and make sure it is at 1/100
 
-Step 5: Find the "Blue Pixel" on the Stock Level and look at WindowSpy, take Note of the Window position 
+### Step 6: Find the "Blue Pixel" on the Stock Level and look at WindowSpy, take Note of the Window position 
 
 > Window: 1395, 477
 
