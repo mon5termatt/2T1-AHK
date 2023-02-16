@@ -29,9 +29,6 @@ to get the current color hit <b>CTRL+ALT+F</b>
 ### Step 9: 
 Start the script, Follow directions on screen.
 
-![Main Message at Launch](./images/mainscreen.png)
-https://youtu.be/ksP_EiwYq2s
-
 #### FAQ: 
 
 * my Script is not detecting the right color! How fix? Plz? <b>Run as windowed 1080p (1920x1080)</b>
