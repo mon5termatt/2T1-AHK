@@ -16,7 +16,8 @@ Launch AutoHotKey WindowSpy
 
 ### Step 5: 
 Find the <b>"Sell Stock"</b> Box in the Bunker Manager app and take note of the Window Position 
-This can be any RED Pixel. (505, 632 By Default) 
+
+<b>This can be any RED Pixel. (505, 632 By Default)</b> 
 
 ![Sell Stock Box](./images/sellstock.png)
 
