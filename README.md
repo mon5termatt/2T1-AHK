@@ -15,20 +15,10 @@ Launch AutoHotKey WindowSpy
 ![windowspy icon](./images/windowspy.png)
 
 ### Step 5: 
-Find the <b>"Stock Level"</b> Bar in the Bunker Manager app and make sure it is at 1/100
+Find the <b>"Sell Stock"</b> Box in the Bunker Manager app and take note of the Window Position 
+For example: (500,600)
 
-![stock level example](./images/stocklevel.png)
-
-### Step 6: 
-Find the <b>"Blue Pixel"</b> on the Stock Level and look at WindowSpy, take Note of the Window position 
-
-> Window: 1395, 477
-
-> Color:    F0F0F0 (Red=F0 Green=F0 Blue=F0)
-
-### Step 7: 
-Find the <b>"BLACK Pixel"</b> Just to the right of the Blue Pixel on the Stock Level and look at WindowSpy, take Note of the Window position 
-This is important as it will stop the script if you have more then 1/100 stock
+![Sell Stock Box](./images/sellstock.png)
 
 ### Step 8: 
 Edit the file to the correct pixel number in the AHK file via notepad
