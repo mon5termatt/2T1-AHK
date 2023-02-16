@@ -6,8 +6,8 @@ Install AutoHotKey 1.1
 https://www.autohotkey.com/
 
 ### Step 3: 
-Follow this tutorial to get the multiplier and everything set up 
-https://youtu.be/DHfVRy5KhWk
+Enable The following Options
+![2T1 Settings](./images/menusettings.png)
 
 ### Step 4: 
 Launch AutoHotKey WindowSpy
