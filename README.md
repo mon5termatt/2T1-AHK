@@ -7,6 +7,7 @@ https://www.autohotkey.com/
 
 ### Step 3: 
 Enable The following Options
+
 ![2T1 Settings](./images/menusettings.png)
 
 ### Step 4: 
