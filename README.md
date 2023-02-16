@@ -24,7 +24,8 @@ Find the <b>"Sell Stock"</b> Box in the Bunker Manager app and take note of the 
 
 ### Step 8: 
 Edit the file to the correct pixel number in the AHK file via notepad
-to get the current color hit <b>CTRL+ALT+F</b>
+
+#### <b>to get the current color hit CTRL+ALT+F</b>
 
 ### Step 9: 
 Start the script, Follow directions on screen.
