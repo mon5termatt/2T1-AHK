@@ -3,6 +3,8 @@
 ;Sell Stock "BOX" In Manager
 x=505
 y=632
+;Seconds Between trying to sell
+wait=3
 
 ;------------------------------------------------------------------------------------------
 ;DO NOT EDIT THE CODE BELOW
@@ -31,18 +33,13 @@ goto Start
 ;BUNKER AUTO SELL
 ;------------------------------------------------------------
 
-Sleep, 100
-Click, 487 626
-Sleep, 100
 Click, 931 674 ; Click "Sell To Blaine County"
-Sleep, 100
 Click, 931 674 ; Click "Sell To Blaine County"
-Sleep, 100
 Click, 967 618 ; Double check it confirms you are selling a ton
-Sleep, 100
+Click, 967 618 ; Double check it confirms you are selling a ton
 Click, 1063 618 ; Double check it confirms you are selling a ton
 Click, 1063 618 ; Double Click.
-Sleep, 5000
+Sleep, %wait%000
 goto Start
 
 
