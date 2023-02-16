@@ -41,6 +41,7 @@ Sleep, 100
 Click, 967 618 ; Double check it confirms you are selling a ton
 Sleep, 100
 Click, 1063 618 ; Double check it confirms you are selling a ton
+Click, 1063 618 ; Double Click.
 Sleep, 5000
 goto Start
 
