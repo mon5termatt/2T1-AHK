@@ -16,7 +16,7 @@ Launch AutoHotKey WindowSpy
 
 ### Step 5: 
 Find the <b>"Sell Stock"</b> Box in the Bunker Manager app and take note of the Window Position 
-For example: (500,600)
+This can be any RED Pixel. (505, 632 By Default) 
 
 ![Sell Stock Box](./images/sellstock.png)
 
@@ -29,3 +29,7 @@ Start the script, Follow directions on screen.
 
 ![Main Message at Launch](./images/mainscreen.png)
 https://youtu.be/ksP_EiwYq2s
+
+#### FAQ: 
+
+* my Script is not detecting the right color! How fix? Plz? <b>Run as windowed 1080p (1920x1080)</b>
