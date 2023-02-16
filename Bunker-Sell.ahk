@@ -21,7 +21,7 @@ if not WinExist("PopstarV") ; Keep the game focused
 WinActivate  ; Activate the window found by the above command.
 
  
-PixelGetColor, color, 505, 632 
+PixelGetColor, color, %x%, %y%
 
 if (color = "0x000099") {
 sleep, 1
