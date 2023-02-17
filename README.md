@@ -1,6 +1,8 @@
 # bunker-ahk
 AUTOHOTKEY SCRIPT FOR 2T1 MU BUNKER METHOD
 
+# READ THIS BEFORE USE!!!!!!
+
 ### Step 1: 
 Install AutoHotKey 1.1
 https://www.autohotkey.com/
@@ -12,7 +14,7 @@ Enable The following Options
 
 
 
-### STEP 4-7 IS FOR EDITING THE SCRIPT
+# STEP 4-7 IS FOR EDITING THE SCRIPT
 IF YOU ARE ON 1080P YOU MAY NOT NEED TO DO THIS!
 
 ### Step 4: 
