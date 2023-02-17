@@ -22,12 +22,12 @@ Find the <b>"Sell Stock"</b> Box in the Bunker Manager app and take note of the 
 
 ![Sell Stock Box](./images/sellstock.png)
 
-### Step 8: 
+### Step 6: 
 Edit the file to the correct pixel number in the AHK file via notepad
 
 #### <b>to get the current color hit CTRL+ALT+F</b>
 
-### Step 9: 
+### Step 7: 
 Start the script, Follow directions on screen.
 
 #### FAQ: 
