@@ -10,6 +10,11 @@ Enable The following Options
 
 ![2T1 Settings](./images/menusettings.png)
 
+
+
+### STEP 4-7 IS FOR EDITING THE SCRIPT
+IF YOU ARE ON 1080P YOU MAY NOT NEED TO DO THIS!
+
 ### Step 4: 
 Launch AutoHotKey WindowSpy
 
