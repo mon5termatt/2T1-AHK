@@ -48,10 +48,12 @@ Click, %x2% %y2% ; Double check it confirms you are selling a ton
 Sleep, 100
 Click, %x2% %y2% ; Double check it confirms you are selling a ton
 
+;Click, 1063 618 ; Double Click.
+
 errcheck:
 
-PixelGetColor, color2, %x2%, %check% 
-if (color2 = "0x291CAE") {
+PixelGetColor, color2, %x%, %y% 
+if (color2 = "0x000017") {
 goto loop
 } else {
 goto end
