@@ -41,6 +41,8 @@ Start the script, Follow directions on screen.<br>
 * The Script is not detecting the right color! How fix? 
 <b>Run as windowed 1080p (1920x1080)</b>
 *
+
+
 ### Final Results
 - If done correctly you will see the following
 #
