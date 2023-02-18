@@ -46,7 +46,7 @@ Start the script, Follow directions on screen.<br>
 ### Final Results
 - If done correctly you will see the following
 #
-[Video Title]( )
+[Video Title](https://user-images.githubusercontent.com/125618144/219843244-e85f35d8-923e-4a3b-9b42-d67da50ed53a.mp4)
 #
 # Hotkey Controls
 CTRL+ALT+S - START LOOP<br>
