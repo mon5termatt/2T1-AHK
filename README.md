@@ -14,7 +14,7 @@ Enable The following Options<br>
 ![2T1 Settings](./images/menusettings.png)
 
 ### STEP 3
-If you are using a 1080p, you do not need to do this and can skip the next steps.
+If you are using a 1080p Monitor, you <i>Shouldnt</i> need to do this and can skip the next steps.
 #
 ### "EDITING THE SCRIPT"
 ### Step 4: 
