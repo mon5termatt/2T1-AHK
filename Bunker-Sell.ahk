@@ -42,13 +42,11 @@ goto Start
 ;BUNKER AUTO SELL
 ;------------------------------------------------------------
 
-;Click, %x2% %y2% ; Click "Sell To Blaine County"
+Click, %x2% %y2% ; Click "Sell To Blaine County"
 Sleep, 100
-;Click, %x2% %y2% ; Double check it confirms you are selling a ton
+Click, %x2% %y2% ; Double check it confirms you are selling a ton
 Sleep, 100
-;Click, %x2% %y2% ; Double check it confirms you are selling a ton
-
-;Click, 1063 618 ; Double Click.
+Click, %x2% %y2% ; Double check it confirms you are selling a ton
 
 errcheck:
 
