@@ -2,6 +2,8 @@
 Discription: This Autohotkey Script can be used for 2Take1 Master Unlocker to automate the process of gaining money faster.
 ##
 
+![kekw](https://i.imgur.com/xG8yYiP.png)<br>
+
 # Instructions:
 ### Step 1: 
 [Click To Install](https://www.autohotkey.com/) AutoHotKey 1.1<br>
