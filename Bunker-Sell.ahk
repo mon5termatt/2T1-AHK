@@ -22,33 +22,37 @@ Check := (y2 - 10)
 
 CoordMode, Mouse, Window
 CoordMode, PixelGetColor, Window
-;msgbox, Basic Usage:`nStart the script by hitting CTRL+ALT+S`nTo Stop the script hit CTRL+ALT+D`nTo debug the colors on screen hit CTRL+ALT+F`n`nStep 1: Open the Bunker Remote Access Terminal`nStep 2: Start the Script`n`nPlease note I have only tested on a 1080p monitor. You may need to edit this script if you arent @ 1080p `n`n For info on how to change this script Hit CTRL+ALT+A
+msgbox, Basic Usage:`nStart the script by hitting CTRL+ALT+S`nTo Stop the script hit CTRL+ALT+D`nTo debug the colors on screen hit CTRL+ALT+F`n`nStep 1: Open the Bunker Remote Access Terminal`nStep 2: Start the Script`n`nPlease note I have only tested on a 1080p monitor. You may need to edit this script if you arent @ 1080p `n`n For info on how to change this script Hit CTRL+ALT+A
 
 ^!s::  ; Control+Alt+S hotkey.
 Start:
 if not WinExist("PopstarV") ; Keep the game focused
-    return	
+    return    
 WinActivate  ; Activate the window found by the above command.
  
 PixelGetColor, color, %x%, %y% 
 
 if (color = "0x000099") {
-sleep, 1
-} else {
-goto Start
-}
+goto bas
+} 
+if (color = "0x000017") {
+click, %x2%, %y2%
+goto start
+} else { 
+goto start 
+} 
+
+
 
 ;------------------------------------------------------------
 ;BUNKER AUTO SELL
 ;------------------------------------------------------------
-
+bas:
 Click, %x2% %y2% ; Click "Sell To Blaine County"
 Sleep, 100
 Click, %x2% %y2% ; Double check it confirms you are selling a ton
 Sleep, 100
 Click, %x2% %y2% ; Double check it confirms you are selling a ton
-
-;Click, 1063 618 ; Double Click.
 
 errcheck:
 
