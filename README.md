@@ -6,7 +6,7 @@ Discription: This Autohotkey Script can be used for 2Take1 Master Unlocker to au
 
 # Instructions:
 ### Step 1: 
-[Click To Install](https://www.autohotkey.com/download/ahk-install.exe) AutoHotKey 1.1<br>
+[Click To Install AutoHotKey 1.1](https://www.autohotkey.com/download/ahk-install.exe)<br>
 #
 ### Step 2: 
 Enable The following Options<br>
