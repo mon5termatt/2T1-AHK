@@ -29,12 +29,11 @@ Find the <b>"Sell Stock"</b> Box in the Bunker Manager app and take note of the 
 ![Sell Stock Box](./images/sellstock.png)<br>
 #
 ### Step 6: 
-Edit the file to the correct pixel number in the AHK file via notepad<br><br>
+Edit the file to the correct pixel number in the AHK file via notepad<br>
+you need x1 and y1 to be the red Sell Stock Box<br>
+you need x2 and y2 to be positioned where all three sell buttons overlap.<br>
 
 <b>If you would like to test the colors, Save and run the script now.<br>Make sure that the Remote App is open and on the sell stock screen.<br>to get the current color hit CTRL+ALT+F</b><br>
-#
-### Step 7: 
-IF you would like to enable the failsafe cancel method you will also need to edit the x2 and y2 <br>
 #
 ### Step 8: 
 Start the script, Follow directions on screen.<br>
