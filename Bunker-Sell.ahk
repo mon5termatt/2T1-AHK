@@ -16,10 +16,6 @@ y2=632
 ;------------------------------------------------------------------------------------------
 ;DO NOT EDIT THE CODE BELOW
 
-
-10=10 ; this line is legit the worst code ive ever written
-Check := (y2 - 10)
-
 CoordMode, Mouse, Window
 CoordMode, PixelGetColor, Window
 msgbox, Basic Usage:`nStart the script by hitting CTRL+ALT+S`nTo Stop the script hit CTRL+ALT+D`nTo debug the colors on screen hit CTRL+ALT+F`n`nStep 1: Open the Bunker Remote Access Terminal`nStep 2: Start the Script`n`nPlease note I have only tested on a 1080p monitor. You may need to edit this script if you arent @ 1080p `n`n For info on how to change this script Hit CTRL+ALT+A
@@ -29,16 +25,15 @@ Start:
 if not WinExist("PopstarV") ; Keep the game focused
     return    
 WinActivate  ; Activate the window found by the above command.
- 
-PixelGetColor, color, %x%, %y% 
 
-if (color = "0x000099") {
+PixelGetColor, color, %x%, %y% 
+if (color = "0x000099") { ; Check if Ready to sell
 goto bas
 } 
-if (color = "0x000017") {
+if (color = "0x000017") { ; Check if stuck on a menu.
 click, %x2%, %y2%
 goto start
-} else { 
+} else { ; All Other Colors, Just Wait.
 goto start 
 } 
 
@@ -53,21 +48,14 @@ Sleep, 100
 Click, %x2% %y2% ; Double check it confirms you are selling a ton
 Sleep, 100
 Click, %x2% %y2% ; Double check it confirms you are selling a ton
-
-errcheck:
-
-PixelGetColor, color2, %x%, %y% 
-if (color2 = "0x000017") {
-goto loop
-} else {
-goto end
+errchk:
+Sleep, 200
+PixelGetColor, color, %x%, %y% 
+if (color = "0x000017") { ; Check if stuck on a menu.
+click, %x2%, %y2% 
+goto errchk
 }
 
-loop:
-Click, %x2% %y2%
-goto errcheck
-
-end:
 Sleep, %wait%000
 goto Start
 
@@ -83,5 +71,5 @@ return
 PixelGetColor, color, %x%, %y% 
 PixelGetColor, color2, %x2%, %y2% 
 
-msgbox, The current color is currently %color%`n`nIf you have stock to sell this value should be 0x000099`n`n Failsafe Color = %x2% %y2% %check% %color2%
+msgbox, Sell Box:`n%x% %y% %color%`nFailsafe Color`n%x2% %y2% %color2%`n`nIf you have stock to sell the top value should be 0x000099
 return
