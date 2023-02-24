@@ -1,8 +1,14 @@
 # "BUNKER AHK MACRO"
 Discription: This Autohotkey Script can be used for 2Take1 Master Unlocker to automate the process of gaining money faster.
+
+Requirements:
+* 2 Take 1 Menu
+* Master Unlocker Donator Version LUA
+
 ##
 
 ![kekw](https://i.imgur.com/xG8yYiP.png)<br>
+<i>after 3 hours of running the script</i><br>
 
 # Instructions:
 ### Step 1: 
@@ -47,8 +53,10 @@ Start the script, Follow directions on screen.<br>
 #
 #### FAQ: 
 * The Script is not detecting the right color! How fix? 
-<b>Run as windowed 1080p (1920x1080)</b>
-*
+  <b>Run as windowed 1080p (1920x1080)</b>
+  
+* I need help! 
+  <b>Join the Master Unlocker discord.</b>
 
 
 ### Final Results
@@ -62,3 +70,11 @@ CTRL+ALT+D - PAUSE SCRIPT<br>
 CTRL+ALT+A - HELP MENU<br>
 CTRL+ALT+F - DEBUG "PIXEL" COLOR<br>
 ##
+
+
+
+
+# Disclaimers and Stuff
+
+I dont provide anything but a autohotkey script here. this is not a cheat and does not hook into GTA in any way. 
+The only thing this script does is simulate keypresses and check what color your monitor is displaying. 
