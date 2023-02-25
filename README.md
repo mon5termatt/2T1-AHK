@@ -20,7 +20,7 @@ Enable The following Options <b>THEN JOIN A NEW INVITE ONLY SESSION</b><br>
 ![2T1 Settings](./images/menu.png)
 
 ### STEP 3
-If you are using a 1080p Monitor, you <i>Shouldnt</i> need to do this and can skip the next steps.
+If you are using a 1080p Monitor, you <i>Shouldnt</i> need to do this and can skip to step 9<br>
 #
 ### "EDITING THE SCRIPT"
 ### Step 4: 
