@@ -15,9 +15,9 @@ Requirements:
 [Click To Install AutoHotKey 1.1](https://www.autohotkey.com/download/ahk-install.exe)<br>
 #
 ### Step 2: 
-Enable The following Options<br>
+Enable The following Options <b>THEN JOIN A NEW INVITE ONLY SESSION</b><br>
 #
-![2T1 Settings](./images/menusettings.png)
+![2T1 Settings](./images/menu.png)
 
 ### STEP 3
 If you are using a 1080p Monitor, you <i>Shouldnt</i> need to do this and can skip the next steps.
