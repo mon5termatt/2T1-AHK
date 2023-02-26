@@ -1,82 +1,60 @@
-# "BUNKER AHK MACRO"
-Discription: This Autohotkey Script can be used for 2Take1 Master Unlocker to automate the process of gaining money faster.
+# "BUNKER AHK SCRIPT"
+Discription: This Autohotkey Script can be used along side 2Take1 Master Unlocker.luac to automate the process of gaining money faster.
 
 Requirements:
-* 2 Take 1 Menu
+* Although 1080p resolution may not be necessary, it is recommended to use a monitor with a resolution of 1080p or higher for best results.
+* GTA Game settings Windowed Borderless
+* 2Take1 Menu VIP
 * Master Unlocker Donator Version LUA
 
-##
-[Video Title]([https://user-images.githubusercontent.com/125618144/219843244-e85f35d8-923e-4a3b-9b42-d67da50ed53a.mp4](https://www.youtube.com/watch?v=xzZEkoBb1v0))
-#
+# Instructions: 
+## (1) Click here to 👉[Install AutoHotKey 1.1](https://www.autohotkey.com/download/ahk-install.exe)<br>
 
-![kekw](https://i.imgur.com/xG8yYiP.png)<br>
-<i>after 3 hours of running the script</i><br>
+## (2) Click here to 👉 [View the Complete Tutorial](https://youtu.be/xzZEkoBb1v0)<br>
 
-# Instructions:
-### Step 1: 
-[Click To Install AutoHotKey 1.1](https://www.autohotkey.com/download/ahk-install.exe)<br>
-#
-### Step 2: 
-Enable The following Options <b>THEN JOIN A NEW INVITE ONLY SESSION</b><br>
-#
-![2T1 Settings](./images/menu.png)
+<br>
+ 
+## Rules! Before Joining Master Unlocker Follow All Rules</b>
+* (1) Be polite, respect is good and free, use and abuse it.
+* (2) The discord server is available for anyone, regardless of ethnicity, sexuality, etc.
+* (3) We forbid any user to advertise donor version on 2Take1 server, they will be punished according to 2Take1 server rules.
+* (4) Sharing donor script with people who have not donated will have their access permanently revoked.
+* (5) It is forbidden to share donor version on 2Take1 Server
+* (6) It is forbidden to offend any person or administrator at discord.
+* (7) Harassment is strictly prohibited.
+* (8) It is forbidden to make racist posts, homophobic and with any +18 content.
+* (9) Avoid spam! Repeated posts disrupt the chat, please use common sense.
+* (10) Please, do not shout. Avoid excessive use of CAPS LOCK.
+* (11) Is extremely prohibited any sharing of pornography.
+* (12) It is forbidden to disclose another Discord or Server.
+* (13) DMing a mod or admin with abuse is unacceptable. Just because you aren't in the Discord server, doesn't mean you can start abusing a mod/admin in DM. If you
+<br>don't get along with someone, ignore, block, or whatever. However, I would advise against blocking an admin as we are the only ones who can properly help you in certain situations. If you have a complaint, DM an Admin. 
+* (14) You must be a member of the 2Take1 Discord server to be allowed to join & stay in this server. If you can't join because you have been banned from the 2Take1 Discord, DM a mod or admin (and show proof that you joined 2take1 Guilded for e.g.). If you cannot join the 2Take1 Discord/Guilded server because you are ineligible/don't even have the 2Take1 Menu, then you shouldn't be in this Discord server & will be removed.
+* (15) Discussions about DoS/DDoS/PDoS or similar attacks that involve a federal offence/violate Discords ToS, as well as publishing personal information, will result in a ban
+* (16) You are fine to discuss other menus
 
-### STEP 3
-If you are using a 1080p Monitor, you <i>Shouldnt</i> need to do this and can skip to step 9<br>
-#
-### "EDITING THE SCRIPT"
-### Step 4: 
-Launch AutoHotKey WindowSpy<br>
-#
-![windowspy icon](./images/windowspy.png)<br>
-#
-### Step 5: 
-Find the <b>"Sell Stock"</b> Box in the Bunker Manager app and take note of the Window Position <br>
-<b>This can be any RED Pixel. (505, 632 By Default)</b> <br>
-#
-![Sell Stock Box](./images/sellstock.png)<br>
-#
-### Step 6: 
-Edit the file to the correct pixel number in the AHK file via notepad<br>
-you need x1 and y1 to be the red Sell Stock Box<br>
-#
-### Step 7:
-Find the position shown below in the Bunker Manager app and take note of the Window Position <br>
-![Correct Positioning](./images/example.gif)<br>
-#
-### Step 8:
-Edit the file to the correct pixel number in the AHK file via notepad<br>
-you need x2 and y2 to be positioned where all three sell buttons overlap.<br>
-#
-<b>If you would like to test the colors, Save and run the script now.<br>Make sure that the Remote App is open and on the sell stock screen.<br>to get the current color hit CTRL+ALT+F</b><br>
-#
-### Step 9: 
-Start the script, Follow directions on screen.<br>
-#
-#### FAQ: 
-* The Script is not detecting the right color! How fix? 
-  <b>Run as windowed 1080p (1920x1080)</b>
-  
-* I need help! 
-  <b>Join the Master Unlocker discord.</b>
-
+## Click Here 👉 [Join Master Unlocker Discord](https://discord.gg/N4eAsq5aAG)
 
 ### Final Results
-- If done correctly you will see the following
-#
-[Video Title](https://user-images.githubusercontent.com/125618144/219843244-e85f35d8-923e-4a3b-9b42-d67da50ed53a.mp4)
+- If done correctly you will see the following 
+* <i>after 3 hours of running the script</i><br>
+##
+![kekw](https://i.imgur.com/xG8yYiP.png)<br>
 #
 # Hotkey Controls
 CTRL+ALT+S - START LOOP<br>
 CTRL+ALT+D - PAUSE SCRIPT<br>
 CTRL+ALT+A - HELP MENU<br>
-CTRL+ALT+F - DEBUG "PIXEL" COLOR<br>
 ##
 
+# Disclaimers
+We only provide the AutoHotkey script here, and it does not offer any cheating or hook into GTA. 
+<br>This script is used to automate the process of master unlocker script through mouse clicks, without any manual clicks.
 
 
 
-# Disclaimers and Stuff
 
-I dont provide anything but a autohotkey script here. this is not a cheat and does not hook into GTA in any way. 
-The only thing this script does is simulate keypresses and check what color your monitor is displaying. 
+
+
+
+
