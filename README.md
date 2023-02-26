@@ -1,5 +1,5 @@
 # "BUNKER AHK SCRIPT"
-Discription: This Autohotkey Script can be used along side 2Take1 Master Unlocker.luac to automate the process of gaining money faster.
+Discription: This Autohotkey Script can be used along side <b>2Take1 Master Unlocker</b> to automate the process of gaining money faster.
 <br>
 <br>
 ## Requirements:
