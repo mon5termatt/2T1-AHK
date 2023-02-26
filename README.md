@@ -1,11 +1,13 @@
 # "BUNKER AHK SCRIPT"
 Discription: This Autohotkey Script can be used along side 2Take1 Master Unlocker.luac to automate the process of gaining money faster.
-
-Requirements:
+<br>
+<br>
+## Requirements:
 * Although 1080p resolution may not be necessary, it is recommended to use a monitor with a resolution of 1080p or higher for best results.
 * GTA Game settings Windowed Borderless
 * 2Take1 Menu VIP
 * Master Unlocker Donator Version LUA
+<br>
 
 # Instructions: 
 ## (1) Click here to 👉[Install AutoHotKey 1.1](https://www.autohotkey.com/download/ahk-install.exe)<br>
@@ -34,6 +36,7 @@ Requirements:
 * (16) You are fine to discuss other menus
 
 ## Click Here 👉 [Join Master Unlocker Discord](https://discord.gg/N4eAsq5aAG)
+<br>
 
 ### Final Results
 - If done correctly you will see the following 
