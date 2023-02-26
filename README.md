@@ -10,11 +10,15 @@ Discription: This Autohotkey Script can be used along side 2Take1 Master Unlocke
 <br>
 
 # Instructions: 
-## (1) Click here to 👉[Install AutoHotKey 1.1](https://www.autohotkey.com/download/ahk-install.exe)<br>
+## (1) 👉 [Click here to Install AutoHotKey 1.1](https://www.autohotkey.com/download/ahk-install.exe)<br>
 
-## (2) Click here to 👉 [View the Complete Tutorial](https://youtu.be/xzZEkoBb1v0)<br>
+## (2) 👉 [Click here to View the Complete Tutorial](https://youtu.be/xzZEkoBb1v0)<br>
 
+## (3) 👉 [Click here to Join Master Unlocker Discord](https://discord.gg/N4eAsq5aAG)
 <br>
+
+<details>
+  <summary>Discord Rules</summary>
  
 ## Rules! Before Joining Master Unlocker Follow All Rules</b>
 * (1) Be polite, respect is good and free, use and abuse it.
@@ -34,14 +38,12 @@ Discription: This Autohotkey Script can be used along side 2Take1 Master Unlocke
 * (14) You must be a member of the 2Take1 Discord server to be allowed to join & stay in this server. If you can't join because you have been banned from the 2Take1 Discord, DM a mod or admin (and show proof that you joined 2take1 Guilded for e.g.). If you cannot join the 2Take1 Discord/Guilded server because you are ineligible/don't even have the 2Take1 Menu, then you shouldn't be in this Discord server & will be removed.
 * (15) Discussions about DoS/DDoS/PDoS or similar attacks that involve a federal offence/violate Discords ToS, as well as publishing personal information, will result in a ban
 * (16) You are fine to discuss other menus
+</details>
 
-## Click Here 👉 [Join Master Unlocker Discord](https://discord.gg/N4eAsq5aAG)
-<br>
+<br><br><br>
 
-### Final Results
-- If done correctly you will see the following 
+## 
 * <i>after 3 hours of running the script</i><br>
-##
 ![kekw](https://i.imgur.com/xG8yYiP.png)<br>
 #
 # Hotkey Controls
