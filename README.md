@@ -17,6 +17,7 @@ Discription: This Autohotkey Script can be used along side 2Take1 Master Unlocke
 ## (3) 👉 [Click here to Join Master Unlocker Discord](https://discord.gg/N4eAsq5aAG)
 <br>
 
+### Read the Discord Rules
 <details>
   <summary>Discord Rules</summary>
  
@@ -40,26 +41,21 @@ Discription: This Autohotkey Script can be used along side 2Take1 Master Unlocke
 * (16) You are fine to discuss other menus
 </details>
 
-<br><br><br>
+##
 
-## 
-* <i>after 3 hours of running the script</i><br>
-![kekw](https://i.imgur.com/xG8yYiP.png)<br>
-#
 # Hotkey Controls
 CTRL+ALT+S - START LOOP<br>
 CTRL+ALT+D - PAUSE SCRIPT<br>
 CTRL+ALT+A - HELP MENU<br>
+
 ##
 
+* <i>results after 3 hours of running the script</i><br>
+![kekw](https://i.imgur.com/xG8yYiP.png)<br>
+#
+
+
 # Disclaimers
-We only provide the AutoHotkey script here, and it does not offer any cheating or hook into GTA. 
+We only provide the AutoHotkey script here, and it does not offer any cheats or hook into GTA. 
 <br>This script is used to automate the process of master unlocker script through mouse clicks, without any manual clicks.
-
-
-
-
-
-
-
-
+<br>If you wish to have something removed please create an issue on this page
