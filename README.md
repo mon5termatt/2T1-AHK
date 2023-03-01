@@ -46,16 +46,11 @@ Discription: This Autohotkey Script can be used along side <b>2Take1 Master Unlo
 <details>
 <summary>3840x2160</summary>
 
+* x1= 1055
+* y1= 1260
+* x2= 2027
+* y2= 1274
 
-
-
-x1= 1055
-
-y1= 1260
-
-x2= 2027
-
-y2= 1274
 </details>
 
 ##  
