@@ -1,12 +1,7 @@
-# The bunker method is possibly detected. Do not use the script at this time.
-
-
-## 
-## 
-## 
-## 
-## 
-
+# The bunker method is detected. Do not use the script at this time.<br>We are currently looking into new Methods using MU
+## 👉 [Click here to Join Master Unlocker Discord for more updates](https://discord.gg/N4eAsq5aAG)
+<details>
+<Summary> Old Info </Summary>
 # "BUNKER AHK SCRIPT"
 Discription: This Autohotkey Script can be used along side <b>2Take1 Master Unlocker</b> to automate the process of gaining money faster.
 <br>
@@ -80,3 +75,5 @@ CTRL+ALT+A - HELP MENU<br>
 We only provide the AutoHotkey script here, and it does not offer any cheats or hook into GTA. 
 <br>This script is used to automate the process of master unlocker script through mouse clicks, without any manual clicks.
 <br>If you wish to have something removed please create an issue on this page
+
+</details>
