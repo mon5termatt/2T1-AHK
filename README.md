@@ -1,4 +1,4 @@
-## 👉 [Click here to Join Master Unlocker Discord for more updates](https://discord.gg/N4eAsq5aAG)
+ 👉 [Click here to Join Master Unlocker Discord for more updates](https://discord.gg/N4eAsq5aAG)
 
 ### The bunker method is detected. Do not use the script at this time.<br>We are currently looking into new Methods using MU
 ## 
