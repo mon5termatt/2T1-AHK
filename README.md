@@ -1,8 +1,8 @@
  👉 [Click here to Join Master Unlocker Discord for more updates](https://discord.gg/N4eAsq5aAG)
 
-### The bunker method is detected. Do not use the script at this time.<br>We are currently looking into new Methods using MU
+<br><b>The bunker method is detected. Do not use the script at this time.<br>We are currently looking into new Methods using MU</b>
 ## 
-## <b>You can try the new SC.ahk File for use with special cargo. it has only been tested on one machine and may not work well</b>
+# <b>You can try the new AHK File for use with special cargo. It has only been tested on one machine and may not work well</b>
 
 
 
