@@ -1,7 +1,9 @@
-﻿;CHANGE THESE USING WINDOWSPY!!!
+;CHANGE THESE USING WINDOWSPY!!!
 
 ;Seconds Between trying to sell/source
 wait=3
+
+
 
 
 ;Manage Special Cargo
@@ -16,8 +18,8 @@ sy1=816
 ;Confirm Sell
 sx2=1231
 sy2=669
-
-
+sx3=1040
+sy3=671
 
 ;Source 1 Crate
 gx3=442
@@ -44,19 +46,35 @@ CoordMode, Mouse, Window
 CoordMode, PixelGetColor, Window
 
 ^!s::  ; Control+Alt+S hotkey.
+
+startapp:
+
+Send {f11 down}
+Sleep, 10
+Send {f11 up}
+
+Click WD
+Sleep 200
+Click WD
+Sleep 200
+Click WD
+Sleep 200
+
 Start:
 if not WinExist("PopstarV") ; Keep the game focused
     return    
 WinActivate  ; Activate the window found by the above command.
 
 Click %px1% %py1%
-Sleep 1000
+Sleep 100
 Click %px2% %py2%
 Sleep 100
-
-;Choose a warehouse here
 Click %wx1% %wy1%
 Sleep 100
+PixelGetColor, color1, %sx1%, %sy1%
+if (color1 = "0xFFFFFF") { ; Check for Stock
+goto source
+} 
 Click %sx1% %sy1%
 Sleep 100
 Click %sx1% %sy1%
@@ -64,17 +82,15 @@ Sleep 100
 Click %sx2% %Sy2%
 Sleep 100
 Click %sx2% %Sy2%
+Sleep 100
+Click %sx3% %sy3%
 
 ;Click, 100 100 Right
 Sleep, %wait%000
 goto Start
 
-
-
-^!a::
-if not WinExist("PopstarV") ; Keep the game focused
-    return    
-WinActivate  ; Activate the window found by the above command.
+source:
+Click, 100 100 Right
 Click %px1% %py1%
 Sleep 100
 Click, %gx1% %gy1%
@@ -85,32 +101,7 @@ Sleep, 100
 Click, %gx3% %gy3%
 Sleep, 100
 Click, %gx4% %gy4%
-
-Sleep, 2000
-
-;NEED TO REENTER USING HOTKEY!!!
-
-return
-
-
-
-
-
-
-
-
-
-
-
-
-^!f::
-PixelGetColor, color1, %x1%, %y1% 
-PixelGetColor, color2, %x2%, %y2%
-PixelGetColor, color3, %x3%, %y3%
-PixelGetColor, color4, %x4%, %y4% 
-msgbox, Color1:`n%x1% %y1% %color1%`nColor2:`n%x2% %y2% %color2%`nColor3:`n%x3% %y3% %color3%`nColor4:`n%x4% %y4% %color4%`n
-		
-return
+goto startapp
 
 
 ^!d::Pause  ; Press Ctrl+Alt+D to pause. Press it again to resume.
